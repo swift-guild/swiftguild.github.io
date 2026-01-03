@@ -23,4 +23,4 @@ We may update these Terms from time to time. Continued use of the service consti
 
 ## Contact
 Swift Guild D.O.O.  
-Email: support@yourdomain.com
+Email: swift.guild.ns@gmail.com
