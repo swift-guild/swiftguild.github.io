@@ -24,4 +24,4 @@ You may have the right to access, correct, delete, or export your data depending
 
 ## Contact
 Swift Guild D.O.O.  
-Email: privacy@yourdomain.com
+Email: swift.guild.ns@gmail.com
