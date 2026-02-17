@@ -1,7 +1,4 @@
----
-layout: default
-title: Privacy Policy
----
+# Privacy Policy
 
 **Effective Date:** February 17, 2026
 
