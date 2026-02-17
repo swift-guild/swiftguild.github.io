@@ -1,4 +1,7 @@
-# Privacy Policy
+---
+layout: default
+title: Privacy Policy
+---
 
 **Effective Date:** February 17, 2026
 
@@ -50,4 +53,4 @@ Swift Guild does not sell, rent, or trade personal data.
 
 If you have any questions about this Privacy Policy, you may contact:
 
-**Email:** support@swiftguild.dev
+**Email:** swift.guild.ns@gmail.com
